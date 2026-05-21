@@ -1,0 +1,296 @@
+{
+  "a0": {
+    "ext": "png",
+    "slots": {
+      "0": true
+    }
+  },
+  "a1": {
+    "ext": "png",
+    "slots": {
+      "0": true
+    }
+  },
+  "a2": {
+    "ext": "png",
+    "slots": {
+      "0": true,
+      "1": true,
+      "2": true,
+      "3": true
+    }
+  },
+  "fishauction2": {
+    "ext": "png",
+    "slots": {
+      "0": true,
+      "1": true,
+      "2": true
+    }
+  },
+  "pakids": {
+    "ext": "png",
+    "slots": {
+      "0": true,
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true
+    }
+  },
+  "s0": {
+    "ext": "png",
+    "slots": {
+      "0": true,
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true
+    }
+  },
+  "s1": {
+    "ext": "png",
+    "slots": {
+      "0": true,
+      "1": true,
+      "2": true
+    }
+  },
+  "s10": {
+    "ext": "png",
+    "slots": {
+      "0": true,
+      "1": true,
+      "2": true
+    }
+  },
+  "s11": {
+    "ext": "png",
+    "slots": {
+      "0": true,
+      "1": true,
+      "2": true,
+      "3": true
+    }
+  },
+  "s12": {
+    "ext": "png",
+    "slots": {
+      "0": true,
+      "1": true,
+      "2": true
+    }
+  },
+  "s13": {
+    "ext": "png",
+    "slots": {
+      "0": true,
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true
+    }
+  },
+  "s14": {
+    "ext": "png",
+    "slots": {
+      "0": true,
+      "1": true,
+      "2": true
+    }
+  },
+  "s15": {
+    "ext": "png",
+    "slots": {
+      "0": true,
+      "1": true,
+      "2": true,
+      "3": true
+    }
+  },
+  "s16": {
+    "ext": "png",
+    "slots": {
+      "0": true,
+      "1": true,
+      "2": true
+    }
+  },
+  "s17": {
+    "ext": "png",
+    "slots": {
+      "0": true,
+      "1": true,
+      "2": true
+    }
+  },
+  "s18": {
+    "ext": "png",
+    "slots": {
+      "0": true,
+      "1": true,
+      "2": true
+    }
+  },
+  "s19": {
+    "ext": "png",
+    "slots": {
+      "0": true,
+      "1": true,
+      "2": true
+    }
+  },
+  "s2": {
+    "ext": "png",
+    "slots": {
+      "0": true,
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true
+    }
+  },
+  "s20": {
+    "ext": "png",
+    "slots": {
+      "0": true,
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true
+    }
+  },
+  "s21": {
+    "ext": "png",
+    "slots": {
+      "0": true,
+      "1": true,
+      "2": true
+    }
+  },
+  "s22": {
+    "ext": "png",
+    "slots": {
+      "0": true,
+      "architecture": true
+    }
+  },
+  "s3": {
+    "ext": "png",
+    "slots": {
+      "0": true,
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true
+    }
+  },
+  "s4": {
+    "ext": "png",
+    "slots": {
+      "0": true,
+      "1": true,
+      "2": true
+    }
+  },
+  "s5": {
+    "ext": "png",
+    "slots": {
+      "0": true,
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true
+    }
+  },
+  "s6": {
+    "ext": "png",
+    "slots": {
+      "0": true,
+      "1": true,
+      "2": true
+    }
+  },
+  "s7": {
+    "ext": "png",
+    "slots": {
+      "0": true,
+      "1": true,
+      "2": true
+    }
+  },
+  "s8": {
+    "ext": "png",
+    "slots": {
+      "0": true,
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true
+    }
+  },
+  "s9": {
+    "ext": "png",
+    "slots": {
+      "0": true,
+      "1": true,
+      "2": true
+    }
+  },
+  "t0": {
+    "ext": "png",
+    "slots": {
+      "0": true
+    }
+  },
+  "t1": {
+    "ext": "png",
+    "slots": {
+      "0": true
+    }
+  },
+  "t2": {
+    "ext": "png",
+    "slots": {
+      "0": true
+    }
+  },
+  "t3": {
+    "ext": "png",
+    "slots": {
+      "0": true
+    }
+  },
+  "t4": {
+    "ext": "png",
+    "slots": {
+      "0": true
+    }
+  },
+  "t5": {
+    "ext": "png",
+    "slots": {
+      "0": true
+    }
+  },
+  "t6": {
+    "ext": "png",
+    "slots": {
+      "0": true
+    }
+  },
+  "t7": {
+    "ext": "png",
+    "slots": {
+      "0": true
+    }
+  }
+}
